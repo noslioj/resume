@@ -1,0 +1,113 @@
+body {
+    font-family:Verdana, sans-serif;
+    color:black;
+    margin:10px;
+    border:3px;
+    padding:15px;
+    background-color:white;
+}
+
+
+#cumprimentos {
+    text-align:center;
+}
+
+h1, h2, h3 {
+    font-family:Georgia, serif;
+    text-align:center;
+}
+
+h4 {
+    text-align:center;
+    font-size:15px;
+    font-style:italic;
+}
+.qualificacoes {
+    text-align:justify;
+    margin:auto;
+    width:90%;
+    border:0px solid #73AD21;
+    padding:5px;
+
+}
+
+li {
+    text-align:center;
+    padding:5px;
+}
+
+#habilidades tr:nth-child(even) {
+    background-color:#f2f2f2;
+}
+
+#habilidades tr:hover {
+    background-color:#ddd;
+}
+
+
+#habilidades th {
+    padding-top:6px;
+    padding-bottom:6px;
+    text-align:center;
+    background-color:gray;
+    color:white;
+}
+
+
+#habilidades td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+#empresas tr:nth-child(even) {
+    background-color:#f2f2f2;
+}
+
+#empresas tr:hover {
+    background-color:#ddd;
+}
+
+#empresas th {
+    padding-top:6px;
+    padding-bottom:6px;
+    text-align:center;
+    background-color:gray;
+    color:white;
+}
+
+#empresas td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+#escolas tr:nth-child(even) {
+    background-color:#f2f2f2;
+}
+
+#escolas tr:hover {
+    background-color:#ddd;
+}
+
+#escolas th {
+    padding-top:6px;
+    padding-bottom:6px;
+    text-align:center;
+    background-color:gray;
+    color:white;
+}
+
+#escolas td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+
+#informacoes, #habilidades, #empresas, #escolas, #cursos {
+    border-collapse:collapse;
+    width:100%;
+    text-align:center;
+}
+
+#print {
+    text-align:center;
+}
