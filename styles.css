@@ -59,15 +59,15 @@ li {
     padding: 8px;
 }
 
-#company tr:nth-child(even) {
+#companies tr:nth-child(even) {
     background-color:#f2f2f2;
 }
 
-#company tr:hover {
+#companies tr:hover {
     background-color:#ddd;
 }
 
-#company th {
+#companies th {
     padding-top:6px;
     padding-bottom:6px;
     text-align:center;
@@ -75,7 +75,7 @@ li {
     color:white;
 }
 
-#company td {
+#companies td {
     border: 1px solid #ddd;
     padding: 8px;
 }
