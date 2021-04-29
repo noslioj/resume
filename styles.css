@@ -8,7 +8,7 @@ body {
 }
 
 
-#cumprimentos {
+#greetings {
     text-align:center;
 }
 
@@ -22,7 +22,7 @@ h4 {
     font-size:15px;
     font-style:italic;
 }
-.qualificacoes {
+.qualifications {
     text-align:justify;
     margin:auto;
     width:90%;
@@ -36,16 +36,16 @@ li {
     padding:5px;
 }
 
-#habilidades tr:nth-child(even) {
+#skills tr:nth-child(even) {
     background-color:#f2f2f2;
 }
 
-#habilidades tr:hover {
+#skills tr:hover {
     background-color:#ddd;
 }
 
 
-#habilidades th {
+#skills th {
     padding-top:6px;
     padding-bottom:6px;
     text-align:center;
@@ -54,20 +54,20 @@ li {
 }
 
 
-#habilidades td {
+#skills td {
     border: 1px solid #ddd;
     padding: 8px;
 }
 
-#empresas tr:nth-child(even) {
+#company tr:nth-child(even) {
     background-color:#f2f2f2;
 }
 
-#empresas tr:hover {
+#company tr:hover {
     background-color:#ddd;
 }
 
-#empresas th {
+#company th {
     padding-top:6px;
     padding-bottom:6px;
     text-align:center;
@@ -75,20 +75,20 @@ li {
     color:white;
 }
 
-#empresas td {
+#company td {
     border: 1px solid #ddd;
     padding: 8px;
 }
 
-#escolas tr:nth-child(even) {
+#schools tr:nth-child(even) {
     background-color:#f2f2f2;
 }
 
-#escolas tr:hover {
+#schools tr:hover {
     background-color:#ddd;
 }
 
-#escolas th {
+#schools th {
     padding-top:6px;
     padding-bottom:6px;
     text-align:center;
@@ -96,13 +96,13 @@ li {
     color:white;
 }
 
-#escolas td {
+#schools td {
     border: 1px solid #ddd;
     padding: 8px;
 }
 
 
-#informacoes, #habilidades, #empresas, #escolas, #cursos {
+#information, #skills, #companies, #schools, #courses {
     border-collapse:collapse;
     width:100%;
     text-align:center;
