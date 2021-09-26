@@ -47,6 +47,7 @@ li {
 
 #skills tr:hover {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #ff0000;
     background-color: #96D4D4;
 }
 
@@ -71,6 +72,7 @@ li {
 
 #companies tr:hover {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #ff0000;
     background-color: #96D4D4;
 }
 
@@ -93,6 +95,7 @@ li {
 
 #schools tr:hover {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #ff0000;
     background-color: #96D4D4;
 }
 
