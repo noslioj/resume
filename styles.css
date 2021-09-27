@@ -45,7 +45,17 @@ li {
     background-color:#f2f2f2;
 }
 
+#projects tr:nth-child(even) {
+    background-color:#f2f2f2;
+}
+
 #skills tr:hover {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #ff0000;
+    background-color: #96D4D4;
+}
+
+#projects tr:hover {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: #ff0000;
     background-color: #96D4D4;
@@ -60,8 +70,20 @@ li {
     color:white;
 }
 
+#projects th {
+    padding-top:6px;
+    padding-bottom:6px;
+    text-align:center;
+    background-color:gray;
+    color:white;
+}
 
 #skills td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+#projects td {
     border: 1px solid #ddd;
     padding: 8px;
 }
@@ -113,7 +135,7 @@ li {
 }
 
 
-#information, #skills, #companies, #schools, #courses {
+#information, #skills, #companies, #projects, #schools, #courses {
     border-collapse:collapse;
     width:100%;
     text-align:center;
