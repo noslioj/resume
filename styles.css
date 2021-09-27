@@ -41,6 +41,10 @@ li {
     padding:5px;
 }
 
+table {
+    width: 100%;
+}
+
 #skills tr:nth-child(even) {
     background-color:#f2f2f2;
 }
