@@ -26,7 +26,15 @@ h4 {
     text-align:center;
     font-size:15px;
     font-style:italic;
+
 }
+
+#objective h4:hover{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: green;
+
+}
+
 .qualifications {
     text-align:justify;
     margin:auto;
