@@ -65,11 +65,31 @@ table {
     background-color:#f2f2f2;
 }
 
+#education tr:nth-child(even) {
+    background-color:#f2f2f2;
+}
+
+#languages tr:nth-child(even) {
+    background-color:#f2f2f2;
+}
+
 #projects tr:nth-child(even) {
     background-color:#f2f2f2;
 }
 
 #skills tr:hover {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #ff0000;
+    background-color: #96D4D4;
+}
+
+#education tr:hover {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #ff0000;
+    background-color: #96D4D4;
+}
+
+#languages tr:hover {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: #ff0000;
     background-color: #96D4D4;
@@ -81,8 +101,23 @@ table {
     background-color: #96D4D4;
 }
 
-
 #skills th {
+    padding-top:6px;
+    padding-bottom:6px;
+    text-align:center;
+    background-color:gray;
+    color:white;
+}
+
+#education th {
+    padding-top:6px;
+    padding-bottom:6px;
+    text-align:center;
+    background-color:gray;
+    color:white;
+}
+
+#languages th {
     padding-top:6px;
     padding-bottom:6px;
     text-align:center;
@@ -99,6 +134,16 @@ table {
 }
 
 #skills td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+#education td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+#languages td {
     border: 1px solid #ddd;
     padding: 8px;
 }
@@ -154,8 +199,7 @@ table {
     padding: 8px;
 }
 
-
-#information, #skills, #companies, #projects, #schools, #courses {
+#information, #skills, #education, #languages, #companies, #projects, #schools, #courses {
     border-collapse:collapse;
     width:100%;
     text-align:center;
