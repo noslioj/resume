@@ -7,6 +7,21 @@ body {
     background-color: lightgray;
 }
 
+a:link {
+    color:red;
+}
+
+a:visited {
+    color:green;
+}
+
+a:hover {
+    color:hotpink;
+}
+
+a:active {
+    color:aquamarine;
+}
 
 #greetings {
     text-align:center;
@@ -32,7 +47,7 @@ h4 {
 
 #information td:hover{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: tomato;
+    color:red;
 
 }
 
@@ -79,25 +94,25 @@ table {
 
 #skills tr:hover {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: #ff0000;
+    color: blue;
     background-color: #96D4D4;
 }
 
 #education tr:hover {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: #ff0000;
+    color: blue;
     background-color: #96D4D4;
 }
 
 #languages tr:hover {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: #ff0000;
+    color: blue;
     background-color: #96D4D4;
 }
 
 #projects tr:hover {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: #ff0000;
+    color: blue;
     background-color: #96D4D4;
 }
 
@@ -159,7 +174,7 @@ table {
 
 #companies tr:hover {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: #ff0000;
+    color: blue;
     background-color: #96D4D4;
 }
 
@@ -182,7 +197,7 @@ table {
 
 #schools tr:hover {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: #ff0000;
+    color: blue;
     background-color: #96D4D4;
 }
 
