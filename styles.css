@@ -45,17 +45,21 @@ h4 {
 }
 
 
+#information {
+    border-collapse:collapse;
+    width:100%;
+    text-align:center;
+}
+
 #information td:hover{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color:red;
 
 }
 
-
 #objective h4:hover{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: green;
-
 }
 
 .qualifications {
@@ -82,148 +86,33 @@ table {
     width: 100%;
 }
 
-#skills tr:nth-child(even) {
-    background-color:#f2f2f2;
-}
-
-#education tr:nth-child(even) {
-    background-color:#f2f2f2;
-}
-
-#languages tr:nth-child(even) {
-    background-color:#f2f2f2;
-}
-
-#projects tr:nth-child(even) {
-    background-color:#f2f2f2;
-}
-
-#skills tr:hover {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: blue;
-    background-color: #96D4D4;
-}
-
-#education tr:hover {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: blue;
-    background-color: #96D4D4;
-}
-
-#languages tr:hover {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: blue;
-    background-color: #96D4D4;
-}
-
-#projects tr:hover {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: blue;
-    background-color: #96D4D4;
-}
-
-#skills th {
-    padding-top:6px;
-    padding-bottom:6px;
-    text-align:center;
-    background-color:gray;
-    color:rgb(136, 30, 12);
-}
-
-#education th {
-    padding-top:6px;
-    padding-bottom:6px;
-    text-align:center;
-    background-color:gray;
-    color:rgb(136, 30, 12);
-}
-
-#languages th {
-    padding-top:6px;
-    padding-bottom:6px;
-    text-align:center;
-    background-color:gray;
-    color:rgb(136, 30, 12);
-}
-
-#projects th {
-    padding-top:6px;
-    padding-bottom:6px;
-    text-align:center;
-    background-color:gray;
-    color:rgb(136, 30, 12);
-}
-
-#skills td {
-    border: 1px solid #ddd;
-    padding: 8px;
-}
-
-#education td {
-    border: 1px solid #ddd;
-    padding: 8px;
-}
-
-#languages td {
-    border: 1px solid #ddd;
-    padding: 8px;
-}
-
-#projects td {
-    border: 1px solid #ddd;
-    padding: 8px;
-}
-
-#companies tr:nth-child(even) {
-    background-color:#f2f2f2;
-}
-
-#companies tr:hover {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: blue;
-    background-color: #96D4D4;
-}
-
-#companies th {
-    padding-top:6px;
-    padding-bottom:6px;
-    text-align:center;
-    background-color:gray;
-    color:rgb(136, 30, 12);
-}
-
-#companies td {
-    border: 1px solid #ddd;
-    padding: 8px;
-}
-
-#schools tr:nth-child(even) {
-    background-color:#f2f2f2;
-}
-
-#schools tr:hover {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: blue;
-    background-color: #96D4D4;
-}
-
-#schools th {
-    padding-top:6px;
-    padding-bottom:6px;
-    text-align:center;
-    background-color:gray;
-    color:rgb(136, 30, 12);
-}
-
-#schools td {
-    border: 1px solid #ddd;
-    padding: 8px;
-}
-
-#information, #skills, #education, #languages, #companies, #projects, #schools, #courses {
+.history {
     border-collapse:collapse;
     width:100%;
     text-align:center;
+}
+
+.history tr:hover {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: blue;
+    background-color: #96D4D4;
+}
+
+.history tr:nth-child(even) {
+    background-color:#f2f2f2;
+}
+
+.history th {
+    padding-top:6px;
+    padding-bottom:6px;
+    text-align:center;
+    background-color:gray;
+    color:rgb(136, 30, 12);
+}
+
+.history td {
+    border: 1px solid #ddd;
+    padding: 8px;
 }
 
 #print {
