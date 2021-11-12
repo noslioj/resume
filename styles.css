@@ -4,7 +4,7 @@ body {
     margin:10px;
     border:3px;
     padding:15px;
-    background-color: rgb(173, 166, 166);
+    background-color:gray;
 }
 
 a:link {
@@ -44,7 +44,6 @@ h4 {
 
 }
 
-
 #information {
     border-collapse:collapse;
     width:100%;
@@ -54,7 +53,6 @@ h4 {
 #information td:hover{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color:red;
-
 }
 
 #objective h4:hover{
@@ -62,7 +60,7 @@ h4 {
     color: green;
 }
 
-.qualifications {
+#qualifications {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align:justify;
     margin:auto;
@@ -74,7 +72,6 @@ h4 {
 
 #staff {
     text-align:center;
-    
 }
 
 li {
@@ -86,26 +83,25 @@ table {
     width: 100%;
 }
 
-.history {
+#history {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color:black;
     border-collapse:collapse;
     width:100%;
     text-align:center;
-    
 }
 
-.history tr:hover {
+#history tr:hover {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: blue;
-    background-color: #63cc7d;
+    color:blue;
+    background-color:white;
 }
 
-.history tr:nth-child(even) {
-    background-color:#f2f2f2;
+#history tr:nth-child(even) {
+    background-color:;
 }
 
-.history th {
+#history th {
     padding-top:6px;
     padding-bottom:6px;
     text-align:center;
@@ -113,7 +109,7 @@ table {
     color:rgb(136, 30, 12);
 }
 
-.history td {
+#history td {
     border: 1px solid #ddd;
     padding: 8px;
 }
