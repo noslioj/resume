@@ -87,9 +87,12 @@ table {
 }
 
 .history {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:black;
     border-collapse:collapse;
     width:100%;
     text-align:center;
+    
 }
 
 .history tr:hover {
@@ -106,7 +109,7 @@ table {
     padding-top:6px;
     padding-bottom:6px;
     text-align:center;
-    background-color:gray;
+    background-color:black;
     color:rgb(136, 30, 12);
 }
 
