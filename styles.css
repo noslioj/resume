@@ -59,20 +59,19 @@ h4 {
 }
 
 .qualifications {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align:justify;
     margin:auto;
     width:90%;
     border:0px solid #73AD21;
     padding:5px;
-
+    
 }
 
 #staff {
     text-align:center;
     
 }
-
-
 
 li {
     text-align:center;
