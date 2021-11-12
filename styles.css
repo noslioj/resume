@@ -4,7 +4,7 @@ body {
     margin:10px;
     border:3px;
     padding:15px;
-    background-color: lightgray;
+    background-color: gray;
 }
 
 a:link {
@@ -67,6 +67,13 @@ h4 {
 
 }
 
+#staff {
+    text-align:center;
+    
+}
+
+
+
 li {
     text-align:center;
     padding:5px;
@@ -121,7 +128,7 @@ table {
     padding-bottom:6px;
     text-align:center;
     background-color:gray;
-    color:tomato;
+    color:rgb(136, 30, 12);
 }
 
 #education th {
@@ -129,7 +136,7 @@ table {
     padding-bottom:6px;
     text-align:center;
     background-color:gray;
-    color:tomato;
+    color:rgb(136, 30, 12);
 }
 
 #languages th {
@@ -137,7 +144,7 @@ table {
     padding-bottom:6px;
     text-align:center;
     background-color:gray;
-    color:tomato;
+    color:rgb(136, 30, 12);
 }
 
 #projects th {
@@ -145,7 +152,7 @@ table {
     padding-bottom:6px;
     text-align:center;
     background-color:gray;
-    color:tomato;
+    color:rgb(136, 30, 12);
 }
 
 #skills td {
@@ -183,7 +190,7 @@ table {
     padding-bottom:6px;
     text-align:center;
     background-color:gray;
-    color:tomato;
+    color:rgb(136, 30, 12);
 }
 
 #companies td {
@@ -206,7 +213,7 @@ table {
     padding-bottom:6px;
     text-align:center;
     background-color:gray;
-    color:tomato;
+    color:rgb(136, 30, 12);
 }
 
 #schools td {
