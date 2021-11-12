@@ -98,7 +98,7 @@ table {
 .history tr:hover {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: blue;
-    background-color: #5f5c70;
+    background-color: #63cc7d;
 }
 
 .history tr:nth-child(even) {
