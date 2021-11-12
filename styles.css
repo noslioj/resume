@@ -83,25 +83,29 @@ table {
     width: 100%;
 }
 
-#history {
+.history {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color:black;
+    font-size:16px;
     border-collapse:collapse;
     width:100%;
     text-align:center;
 }
 
-#history tr:hover {
+.history tr:hover {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color:blue;
+}
+
+.history tr:nth-child(even) {
     background-color:white;
 }
 
-#history tr:nth-child(even) {
-    background-color:;
+.history tr:nth-child(odd) {
+    background-color:rgb(153, 145, 145);
 }
 
-#history th {
+.history th {
     padding-top:6px;
     padding-bottom:6px;
     text-align:center;
@@ -109,7 +113,7 @@ table {
     color:rgb(136, 30, 12);
 }
 
-#history td {
+.history td {
     border: 1px solid #ddd;
     padding: 8px;
 }
