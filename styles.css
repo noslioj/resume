@@ -81,15 +81,14 @@ li {
 }
 
 table {
+    border-collapse:collapse;
     width: 100%;
 }
 
 .history {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color:black;
-    font-size:16px;
-    border-collapse:collapse;
-    width:100%;
+    font-size:12px;
     text-align:center;
 }
 
