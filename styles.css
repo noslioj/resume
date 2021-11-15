@@ -4,7 +4,7 @@ body {
     margin:10px;
     border:3px;
     padding:15px;
-    background-color:gray;
+    background-color:whitesmoke;
 }
 
 a:link {
@@ -111,7 +111,7 @@ table {
     padding-bottom:6px;
     text-align:center;
     background-color:black;
-    color:rgb(136, 30, 12);
+    color:greenyellow;
 }
 
 .history td {
