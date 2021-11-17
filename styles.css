@@ -7,6 +7,7 @@ body {
     background-color:whitesmoke;
 }
 
+/*Links*/
 a:link {
     color:black;
 }
@@ -23,16 +24,7 @@ a:active {
     color:red;
 }
 
-#greetings {
-    text-align:center;
-}
-
-.socialNetwork {
-    font-family:Georgia, serif;
-    text-align:center;
-    font-size:16px;
-}
-
+/*Headers*/
 h1, h2, h3 {
     font-family:Georgia, serif;
     text-align:center;
@@ -42,25 +34,34 @@ h4 {
     text-align:center;
     font-size:15px;
     font-style:italic;
-
 }
 
-#information {
+/*SocialNetwork*/
+#socialNetwork {
+    font-family:Georgia, serif;
+    text-align:center;
+    font-size:16px;
+}
+
+/*Contact*/
+#contact {
     border-collapse:collapse;
     width:100%;
     text-align:center;
 }
 
-#information td:hover{
+#contact td:hover{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color:red;
 }
 
+/*Objective*/
 #objective h4:hover{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: green;
 }
 
+/*Qualifications*/
 #qualifications {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align:justify;
@@ -68,18 +69,29 @@ h4 {
     width:90%;
     border:0px solid #73AD21;
     padding:5px;
-    
 }
 
+/*Staff*/
 #staff {
     text-align:center;
 }
 
+
+
+
+
+
+
+
+
+/*List*/
 li {
     text-align:center;
     padding:5px;
 }
 
+
+/*Table*/
 table {
     border-collapse:collapse;
     width: 100%;
@@ -101,10 +113,6 @@ table {
     background-color:white;
 }
 
-.history tr:nth-child(odd) {
-    background-color:rgb(153, 145, 145);
-}
-
 .history th {
     padding-top:6px;
     padding-bottom:6px;
@@ -118,6 +126,7 @@ table {
     padding: 8px;
 }
 
+/*Print*/
 #print {
     text-align:center;
 }
