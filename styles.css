@@ -58,12 +58,11 @@ h4 {
 /*Objective*/
 #objective h4:hover{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: green;
+    color:blue;
 }
 
 /*Qualifications*/
 #qualifications {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align:justify;
     margin:auto;
     width:90%;
@@ -71,18 +70,15 @@ h4 {
     padding:5px;
 }
 
+#qualifications p:hover {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:blue;
+}
+
 /*Staff*/
 #staff {
     text-align:center;
 }
-
-
-
-
-
-
-
-
 
 /*List*/
 li {
@@ -106,7 +102,7 @@ table {
 
 .history tr:hover {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color:rgb(101, 223, 111);
+    color:blue;
 }
 
 .history tr:nth-child(even) {
