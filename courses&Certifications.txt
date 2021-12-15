@@ -1,0 +1,111 @@
+<tr>
+<td>01.2</td>
+<td>
+<a href="https://www.ampli.com.br/"  target="_blank">Ampli (SP)</a>
+</td>  
+<td>Software Engineer</td>
+<td><pre>
+<a href="https://www.ampli.com.br/graduacao/analise-e-desenvolvimento-de-sistemas" target="_blank">Lógica Computacional</a>
+<a href="https://www.ampli.com.br/graduacao/analise-e-desenvolvimento-de-sistemas" target="_blank">Algorítmos e Programação Estruturada</a>
+<a href="https://www.ampli.com.br/graduacao/analise-e-desenvolvimento-de-sistemas" target="_blank">Modelagem de Dados</a>
+</pre>
+</td>
+<td>Intermediate</td>
+</tr>
+                    
+<tr>
+<td>01.3</td>
+<td>
+<a href="https://www.digitalinnovation.one/" target="_blank">DIO</a>
+</td>
+<td>Entrepreneurship and Startups</td>
+<td><pre>
+<a href="https://certificates.digitalinnovation.one/E8275EC2" target="_blank">Mentalidade Empreendedora,</a>
+<a href="https://certificates.digitalinnovation.one/80259CE8" target="_blank">Fundamentos do Intraempreendedorismo,</a>
+<a href="https://certificates.digitalinnovation.one/2201462F" target="_blank">Modelam de Negócios,</a>
+<a href="https://certificates.digitalinnovation.one/919F8569" target="_blank">Estratégias para captação de Investimentos,</a>
+</pre>
+</td>
+<td>Advanced</td>
+</tr>
+
+<tr>
+<td>01.4</td>
+<td>
+<a href="https://www.digitalinnovation.one/" target="_blank">DIO</a>
+</td>
+<td>Systems Architecture</td>
+<td><pre>
+<a href="https://certificates.digitalinnovation.one/72C4B9B6" target="_blank">Fundamentos de Arquitetura de Sistemas. </a>
+<a href="https://certificates.digitalinnovation.one/04D46D0E" target="_blank">Projetos ágeis com SCRUM, </a>
+<a href="https://certificates.digitalinnovation.one/8D4F92D9" target="_blank">Conceitos de Responsividade, </a>
+<a href="https://certificates.digitalinnovation.one/4616F1DA" target="_blank">Extrutura de Dados e Algoritimos, </a>
+<a href="https://certificates.digitalinnovation.one/BDB4032B" target="_blank">Arquitetura de Sistemas Avançados. </a>
+</pre>
+</td>
+<td>Intermediate</td>
+</tr>
+
+<tr>
+<td>01.10</td>
+<td>
+<a href="https://www.digitalinnovation.one/" target="_blank">DIO</a>
+</td>
+<td>.NET</td>
+<td><pre>
+<a href="https://certificates.digitalinnovation.one/7B968F16"  target="_blank">Primeiros passos com .NET + C# </a>
+<a href="https://certificates.digitalinnovation.one/E5A6A347"  target="_blank">Orientação a objetos em .NET </a>
+<a href="https://certificates.digitalinnovation.one/CA363CD3"  target="_blank">Desenvolvimento de aplicações com .NET</a>
+<a href="https://certificates.digitalinnovation.one/3900BBC1"  target="_blank">Configuração da arquitetura do front-end </a>
+<a href="https://certificates.digitalinnovation.one/D83B1771"  target="_blank">Configuração da arquitetura back-end com .NET Core </a>
+</pre>
+</td>
+<td>Intermediate</td>
+</tr>
+
+<tr>
+<td>04.4</td>
+<td>
+<a href="https://www.digitalinnovation.one/" target="_blank">DIO</a>
+</td>
+<td>Angular</td>
+<td><pre>
+<a href="https://certificates.digitalinnovation.one/BA17EA9C" target="_blank">Introdução ao Angular 8</a>
+<a href="https://certificates.digitalinnovation.one/59B50951" target="_blank">Técnicas Avançadas em Angular 8</a>
+<a href="https://certificates.digitalinnovation.one/E7E3EE87" target="_blank">Implementando testes automatizados usando Cypress em uma aplicação Angular</a>
+<a href="https://certificates.digitalinnovation.one/9355002E" target="_blank">A arquitetura de componentes e a gestão da complexidade no front-end</a>
+<a href="https://certificates.digitalinnovation.one/37C6DCB2" target="_blank">Aplicações avançadas com Angular</a>
+<a href="https://certificates.digitalinnovation.one/A79B3D40" target="_blank">Conceitos avançados de performance e otimização usando Angular</a>
+</pre>
+</td>
+<td>Intermediate</td>
+</tr>
+
+
+<tr>
+<td>06.1</td>
+<td>
+<a href="https://www.linkedin.com/learning/?trk=lynda_redirect_learning" target="_blank">LinkedIn Learning</a>
+</td>
+<td>Network Administration</td>
+<td>
+<ul>
+<li><a href="https://www.linkedin.com/learning/certificates/43a7b24fcb3e133bf43a41a3b668b55a57b975359933bc889c2440d5b3e9bce7?trk=share_certificate" target="_blank">Building a Home IT Lab</a></li>
+</ul>
+</td>
+<td>Intermediate</td>
+</tr>
+
+<tr>
+<td>06.1</td>
+<td>
+<a href="https://www.w3schools.com/" target="_blank">w3schools</a>
+</td>
+<td>Cyber Security</td>
+<td>
+<ul>
+<li><a href="https://www.w3schools.com/default.asp" target="_blank">Cyber Security</a></li>
+</ul>
+</td>
+<td>Basic</td>
+</tr>
