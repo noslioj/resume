@@ -51,6 +51,15 @@ h4 {
   font-style:italic;
 }
 
+h5 {
+  text-align:center;
+  font-size:12px;
+  font-style:normal;
+}
+
+
+
+
 /*SocialNetwork*/
 #socialNetwork {
   font-family:Georgia, serif;
